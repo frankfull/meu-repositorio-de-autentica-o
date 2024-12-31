@@ -4,3 +4,4 @@ repositorio teste de autenticações
 
 1. Autenticação via nome de usuário e senha.
 2. Token de acesso pessoal.
+3. autenticação com ssh.
